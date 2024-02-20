@@ -13,6 +13,7 @@ Este portfólio é um reflexo do meu compromisso com a aprendizagem contínua e 
 
 - **Projetos**
 - **Links para LinkedIn e GitHub**
+- **Um pouco Sobre Mim**
 
 ## Como Entrar em Contato
 
